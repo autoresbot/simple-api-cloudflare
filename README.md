@@ -2,6 +2,10 @@
 
 Selamat datang di **Simple API Cloudflare**! Ini adalah API sederhana yang dirancang untuk integrasi dengan **Cloudflare**. Proyek ini memanfaatkan **Node.js** dan **Express** untuk menyediakan endpoint API yang dapat digunakan untuk berbagai kebutuhan terkait Cloudflare.
 
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/autoresbot/simple-api-cloudflare/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/autoresbot/simple-api-cloudflare/node.js.yml)](https://github.com/autoresbot/simple-api-cloudflare/actions)
+[![License](https://img.shields.io/github/license/autoresbot/simple-api-cloudflare)](https://github.com/autoresbot/simple-api-cloudflare/blob/main/LICENSE)
+
 ## Fitur Utama
 
 - **Pengelolaan DNS**: Tambahkan, hapus, dan perbarui catatan DNS menggunakan Cloudflare API.
